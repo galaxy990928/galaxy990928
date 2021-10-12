@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=300&section=header&text=Galaxy990928&fontSize=90&fontColor=000000&animation=fadeIn)
 <div align="center">
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=300&section=header&text=Galaxy990928&fontSize=90&fontColor=000000&animation=fadeIn)
+
   <p>
     리액트를 공부하는 초보 개발자입니다. <br />
     현재 티릴리에 다니고 있으며, 개발 한 지는 3개월 되었습니다. <br />
